@@ -1,8 +1,8 @@
 <img src="pyicon.png" align="right" />
 
-# PYTHON PROJECT for EVERYONE 😄
+# HACKTOBERFEST PROJECT for EVERYONE 😄
 
-This is open-source Python repository feel free to upload your own python projects, don't forget to star and fork this repository. 
+This is open-source repository feel free to upload your own projects, don't forget to star and fork this repository. 
 Highly recommended to use for new contibutors during Hacktoberfest 2022
 
 ## Contribution Guidelines
