@@ -1,4 +1,4 @@
-<img src="pyicon.png" align="right" />
+<img src="hack.png" alt="Hacktoberfest Logo" align="right" width="130" height="110" />
 
 # HACKTOBERFEST PROJECT for EVERYONE 😄
 
